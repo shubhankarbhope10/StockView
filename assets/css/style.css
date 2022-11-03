@@ -5,7 +5,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: light-blue;
+  background-color: grey;
 }
 
 a {
@@ -592,7 +592,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f9fe;
+  background-color: grey;
 }
 
 .section-title {

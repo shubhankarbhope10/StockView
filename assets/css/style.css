@@ -5,7 +5,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: grey;
+  
 }
 
 a {
@@ -589,7 +589,7 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: white;
 }
 
 .section-bg {
@@ -831,7 +831,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #000;
+  background: #fff;
   padding: 0 0 30px 0;
   color: #444444;
   font-size: 14px;
